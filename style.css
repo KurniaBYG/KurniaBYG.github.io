@@ -14,3 +14,9 @@ footer {
 section {
   padding-top: 5rem;
 }
+.Gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
