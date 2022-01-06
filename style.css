@@ -27,7 +27,7 @@ section {
   border-radius: 10px;
   height: 500px;
   transform-style: preserve-3d;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .keyboard-box::before {
@@ -99,7 +99,7 @@ section {
   transform: translate3d(-50%, -50%, 80px);
   transition: 0.5s;
   z-index: 10;
-  max-width: 350px;
+  max-width: ;
 }
 .keyboard-box:hover .keyboard-img {
   transform: translate3d(-50%, -50%, 80px) rotate(10deg) scale(1.2);
